@@ -14,11 +14,11 @@
   _printf.c is the motherboard which needs the other according print_funcs
   and print_number functions.
 
-**main.c**
+**main.c**<br>
 Contains various printf statements of different data types: char, string and integers.
 
-**holberton.h**
+**holberton.h**<br>
 Self-created header file that holds all the function prototypes and the struct used for printf.c
 
-**_printf.c**
+**_printf.c**<br>
 The main body of the function that calls the other (print_funcs.c and print_number.c) functions.
